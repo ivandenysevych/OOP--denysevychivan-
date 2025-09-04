@@ -1,0 +1,14 @@
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\bin\Debug\net9.0\lab1.exe
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\bin\Debug\net9.0\lab1.deps.json
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\bin\Debug\net9.0\lab1.runtimeconfig.json
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\bin\Debug\net9.0\lab1.dll
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\bin\Debug\net9.0\lab1.pdb
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\obj\Debug\net9.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\obj\Debug\net9.0\lab1.AssemblyInfoInputs.cache
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\obj\Debug\net9.0\lab1.AssemblyInfo.cs
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\obj\Debug\net9.0\lab1.csproj.CoreCompileInputs.cache
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\obj\Debug\net9.0\lab1.dll
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\obj\Debug\net9.0\refint\lab1.dll
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\obj\Debug\net9.0\lab1.pdb
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\obj\Debug\net9.0\lab1.genruntimeconfig.cache
+E:\Навчання\ООП(обєктно орієнтоване програмування)\OOP-DenysevychIvan\lab1\obj\Debug\net9.0\ref\lab1.dll
