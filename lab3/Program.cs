@@ -9,6 +9,9 @@ namespace Lab3
     {
         static void Main(string[] args)
         {
+            System.Globalization.CultureInfo.CurrentCulture =
+                System.Globalization.CultureInfo.InvariantCulture;
+
             var shapes = new List<Shape>
             {
                 new Circle(3.5),
@@ -19,16 +22,16 @@ namespace Lab3
 
             Console.WriteLine("-- All shapes --");
             foreach (var s in shapes)
-                Console.WriteLine(s);
+                Console.WriteLine(s.DisplayInfo());
 
             double totalArea = shapes.Sum(s => s.Area());
             double totalPerimeter = shapes.Sum(s => s.Perimeter());
 
-            Console.WriteLine($"\nTotal area: {totalArea:0.###}");
-            Console.WriteLine($"Total perimeter: {totalPerimeter:0.###}");
+            Console.WriteLine("\nTotal area: {0:0.###}", totalArea);
+            Console.WriteLine("Total perimeter: {0:0.###}", totalPerimeter);
 
             var maxShape = shapes.OrderByDescending(s => s.Area()).First();
-            Console.WriteLine($"\nMax area shape: {maxShape.Name} with S={maxShape.Area():0.###}");
+            Console.WriteLine("\nMax area shape: {0} with S={1:0.###}", maxShape.Name, maxShape.Area());
         }
     }
 }
